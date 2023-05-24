@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 96f0c3077d15fab4bb49fb4183288844
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - characterDeathPrefab: {instanceID: 0}
+  - characterDeathSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
